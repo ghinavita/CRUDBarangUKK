@@ -1,0 +1,44 @@
+D:\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe.config
+D:\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe
+D:\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.pdb
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csprojAssemblyReference.cache
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Form1.resources
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Properties.Resources.resources
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.GenerateResource.cache
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.CoreCompileInputs.cache
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.exe
+D:\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.pdb
+D:\UKK\CRUDbarang\CRUDbarang\bin\Debug\dbbarang.accdb
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\bin\Debug\dbbarang.accdb
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe.config
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.pdb
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csprojAssemblyReference.cache
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Form1.resources
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Properties.Resources.resources
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.GenerateResource.cache
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.CoreCompileInputs.cache
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.exe
+D:\duabelas\UKK\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.pdb
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\bin\Debug\dbbarang.accdb
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe.config
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.pdb
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csprojAssemblyReference.cache
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Form1.resources
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Properties.Resources.resources
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.GenerateResource.cache
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.CoreCompileInputs.cache
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.exe
+C:\Users\ROG_Ferry\OneDrive\Dokumen\Sekolah\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.pdb
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\bin\Debug\dbbarang.accdb
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe.config
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.exe
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\bin\Debug\CRUDbarang.pdb
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csprojAssemblyReference.cache
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Form1.resources
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.Properties.Resources.resources
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.GenerateResource.cache
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.csproj.CoreCompileInputs.cache
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.exe
+G:\hiburan maybe~\Downloads\CRUDbarang\CRUDbarang\obj\Debug\CRUDbarang.pdb
